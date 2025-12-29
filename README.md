@@ -1,6 +1,6 @@
 🚀 Tech Stack
 
-Frontend
+FRONTEND :
 
 React / Vite
 
@@ -8,7 +8,7 @@ Tailwind CSS
 
 Axios
 
-Backend
+BACKEND :
 
 Node.js
 
@@ -26,7 +26,7 @@ Deployment
 
 Vercel (Backend & Frontend)
 
-📦 Prerequisites
+📦 Prerequisites :
 
 Before starting, make sure you have the following installed:
 
@@ -37,7 +37,7 @@ Git
 
 VS Code
 
-⚙️ Project Setup Guide
+⚙️ Project Setup Guide :
 
 Important: Always run and deploy the Server first, then start the Client.
 
